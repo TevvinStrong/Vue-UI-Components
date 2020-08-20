@@ -22,4 +22,4 @@ This repository is designed to be your first exposure into the world of VueJS. T
 </li>
 </ul>
 
-<p><a target="_blank" rel="noopener noreferrer" href="/TevvinStrong/React-UI-Components/blob/master/sc-component-outline.png"><img src="/TevvinStrong/React-UI-Components/raw/master/sc-component-outline.png" alt="Social Components" style="max-width:100%;"></a></p>
+<p><img src="https://share.getcloudapp.com/6que8nX8" alt="Social Components" style="max-width:100%;"></a></p>
