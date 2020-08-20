@@ -22,4 +22,4 @@ This repository is designed to be your first exposure into the world of VueJS. T
 </li>
 </ul>
 
-<p><img src="https://share.getcloudapp.com/6que8nX8" alt="Social Components" style="max-width:100%;"></a></p>
+<iframe src="https://share.getcloudapp.com/6que8nX8?embed=true" width="100%" height="100%" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
