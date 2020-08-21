@@ -23,4 +23,7 @@ export default {};
 
 <!--CSS-->
 <style Scoped>
+.header_content {
+  width: 400px;
+}
 </style>

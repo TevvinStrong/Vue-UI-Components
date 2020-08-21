@@ -18,4 +18,9 @@ export default {};
 
 <!--CSS-->
 <style Scoped>
+img {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+}
 </style>

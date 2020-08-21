@@ -29,4 +29,10 @@ export default {
 
 <!--CSS-->
 <style Scoped>
+.container {
+  display: flex;
+  flex-wrap: no-wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+}
 </style>

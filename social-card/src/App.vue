@@ -24,10 +24,17 @@ CSS Reset
   padding: 0;
   font-size: 1em;
   font-family: inherit;
+  background-color: #15202b;
+  color: #ffffff;
 }
 
-html {
+html,
+a {
   font-size: 62.5%;
-  color: black;
+  color: #236cfe;
+}
+
+span {
+  color: #768592;
 }
 </style>

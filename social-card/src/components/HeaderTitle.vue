@@ -19,4 +19,14 @@ export default {};
 
 <!--CSS-->
 <style Scoped>
+.header_title {
+  display: flex;
+}
+
+h5 {
+}
+
+span {
+  margin-left: 10px;
+}
 </style>
