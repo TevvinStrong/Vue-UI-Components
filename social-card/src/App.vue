@@ -28,5 +28,6 @@ CSS Reset
 
 html {
   font-size: 62.5%;
+  color: black;
 }
 </style>
