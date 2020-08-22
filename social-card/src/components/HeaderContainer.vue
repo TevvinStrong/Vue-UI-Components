@@ -14,12 +14,10 @@
 <script>
 import Thumbnail from "./ImageThumbnail.vue";
 import HeaderTitle from "./HeaderTitle.vue";
-import HeaderContent from "./HeaderContent.vue";
 export default {
   components: {
     Thumbnail,
     HeaderTitle,
-    HeaderContent,
   },
 };
 </script>
@@ -31,8 +29,10 @@ export default {
 <style Scoped>
 .container {
   display: flex;
-  flex-wrap: no-wrap;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: flex-start;
+  width: 800px;
+  max-width: 100%;
 }
 </style>

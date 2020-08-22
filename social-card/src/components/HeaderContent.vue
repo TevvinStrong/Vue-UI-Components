@@ -24,6 +24,9 @@ export default {};
 <!--CSS-->
 <style Scoped>
 .header_content {
-  width: 400px;
+  margin-left: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  width: 600px;
 }
 </style>
