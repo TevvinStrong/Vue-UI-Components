@@ -1,8 +1,11 @@
 <!--Markup/HTML-->
 <template>
   <div class="header_title">
-    <h5>Porsche Motorsport</h5>
-    <span>@PorscheRaces - Aug 14</span>
+    <h5>
+      Porsche Motorsport
+      <span>@PorscheRaces - Aug 14</span>
+    </h5>
+    <HeaderContent />
   </div>
 </template>
 
@@ -11,7 +14,13 @@
 
 <!--Javascript-->
 <script>
-export default {};
+import HeaderContent from "./HeaderContent.vue";
+
+export default {
+  components: {
+    HeaderContent,
+  },
+};
 </script>
 
 
@@ -19,4 +28,23 @@ export default {};
 
 <!--CSS-->
 <style Scoped>
+.header_title {
+  padding-top: 5px;
+}
+
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-top: 46px;
+  margin-bottom: 5px;
+  margin-left: 13px;
+}
+
+span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 48px;
+  top: 20px;
+}
 </style>
