@@ -1,7 +1,7 @@
 <!--HTML Markup-->
 <template>
   <div class="icons">
-    <fa-icon icon="comment" />
+    <fa-icon class="icon" icon="comment" />
   </div>
 </template>
 
@@ -11,5 +11,8 @@ export default {};
 </script>
 
 <!--CSS-->
-<style>
+<style scoped>
+.icons {
+  width: 500px;
+}
 </style>

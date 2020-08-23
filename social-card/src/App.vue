@@ -2,18 +2,21 @@
   <div id="app">
     <HeaderContainer />
     <CardContainer />
+    <CardIcons />
   </div>
 </template>
 
 <script>
 import HeaderContainer from "./components/HeaderContainer.vue";
 import CardContainer from "./components/CardContainer.vue";
+import CardIcons from "./components/CardIcons.vue";
 
 export default {
   name: "App",
   components: {
     HeaderContainer,
     CardContainer,
+    CardIcons,
   },
 };
 </script>
