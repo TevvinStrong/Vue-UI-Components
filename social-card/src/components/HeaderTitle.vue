@@ -3,6 +3,7 @@
   <div class="header_title">
     <h5>
       Porsche Motorsport
+      <fa-icon class="icon" icon="inbox" />
       <span>@PorscheRaces - Aug 14</span>
     </h5>
     <HeaderContent />

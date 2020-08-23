@@ -16,12 +16,14 @@ export default {};
 <!--CSS-->
 <style scoped>
 .icons {
-  margin-top: 20px;
+  margin-right: 38%;
+  margin-top: 10px;
   display: flex;
   flex-wrap: nowrap;
-  justify-content: flex-start;
+  justify-content: space-evenly;
 }
 
 .icon {
+  width: 100px;
 }
 </style>

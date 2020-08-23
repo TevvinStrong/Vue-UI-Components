@@ -20,5 +20,6 @@ img {
   margin-left: 14%;
   width: 450px;
   border-radius: 5%;
+  border: 1px solid dimgray;
 }
 </style>
