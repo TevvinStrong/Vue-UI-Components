@@ -1,13 +1,18 @@
 <!--Markup/HTML-->
 <template>
   <div class="container">
-    <h1>Hello, test</h1>
+    <CardBanner />
   </div>
 </template>
 
 <!--Javascript-->
 <script>
-export default {};
+import CardBanner from "./CardBanner.vue";
+export default {
+  components: {
+    CardBanner,
+  },
+};
 </script>
 
 <!--CSS-->
