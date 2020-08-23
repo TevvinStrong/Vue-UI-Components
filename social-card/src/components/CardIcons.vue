@@ -2,6 +2,7 @@
 <template>
   <div class="icons">
     <fa-icon class="icon" icon="comment" />
+    <fa-icon class="icon" icon="retweet" />
   </div>
 </template>
 
@@ -13,6 +14,9 @@ export default {};
 <!--CSS-->
 <style scoped>
 .icons {
-  width: 500px;
+  margin-top: 20px;
+}
+
+.icon {
 }
 </style>

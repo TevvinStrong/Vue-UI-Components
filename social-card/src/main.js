@@ -4,8 +4,9 @@ import App from './App.vue'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import {faComment} from '@fortawesome/free-solid-svg-icons';
+import {faRetweet} from '@fortawesome/free-solid-svg-icons';
 
-library.add(faComment)
+library.add(faComment, faRetweet)
 
 Vue.component('fa-icon', FontAwesomeIcon)
 
