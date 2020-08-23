@@ -18,7 +18,7 @@ export default {};
 
 <!--CSS-->
 <style Scoped>
-img {
+.image img {
   width: 45px;
   height: 45px;
   border-radius: 50%;

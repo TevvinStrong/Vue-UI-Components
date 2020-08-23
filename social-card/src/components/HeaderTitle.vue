@@ -3,7 +3,11 @@
   <div class="header_title">
     <h5>
       Porsche Motorsport
-      <span>@PorscheRaces - Aug 14</span>
+      <fa-icon class="icon" icon="check-circle" />
+      <span>
+        @PorscheRaces - Aug 14
+        <fa-icon class="icon" icon="chevron-down" style="margin-left: 24%;" />
+      </span>
     </h5>
     <HeaderContent />
   </div>
@@ -45,6 +49,6 @@ span {
   font-size: 12px;
   font-weight: 500;
   margin-top: 48px;
-  top: 20px;
+  margin-left: 1%;
 }
 </style>
