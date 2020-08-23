@@ -8,8 +8,9 @@ import {faRetweet} from '@fortawesome/free-solid-svg-icons';
 import {faHeart} from '@fortawesome/free-solid-svg-icons';
 import {faInbox} from '@fortawesome/free-solid-svg-icons';
 import {faCheckCircle} from '@fortawesome/free-solid-svg-icons';
+import {faChevronDown} from '@fortawesome/free-solid-svg-icons';
 
-library.add(faComment, faRetweet, faHeart, faInbox, faCheckCircle)
+library.add(faComment, faRetweet, faHeart, faInbox, faCheckCircle, faChevronDown)
 
 Vue.component('fa-icon', FontAwesomeIcon)
 

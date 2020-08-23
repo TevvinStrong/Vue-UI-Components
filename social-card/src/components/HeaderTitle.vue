@@ -4,7 +4,10 @@
     <h5>
       Porsche Motorsport
       <fa-icon class="icon" icon="check-circle" />
-      <span>@PorscheRaces - Aug 14</span>
+      <span>
+        @PorscheRaces - Aug 14
+        <fa-icon class="icon" icon="chevron-down" style="margin-left: 24%;" />
+      </span>
     </h5>
     <HeaderContent />
   </div>
