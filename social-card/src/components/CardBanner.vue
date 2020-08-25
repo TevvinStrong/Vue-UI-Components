@@ -1,7 +1,9 @@
 <!--HTML Markup-->
 <template>
   <div class="banner_image">
-    <img src="../assets/Porsche_banner.jpg" alt="Porsche cars racing" />
+    <a href="https://motorsports.porsche.com/international/en" target="_blank">
+      <img src="../assets/Porsche_banner.jpg" alt="Porsche cars racing" />
+    </a>
   </div>
 </template>
 

@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <HeaderContainer />
-    <CardContainer />
+    <a href="google.com">
+      <CardContainer />
+    </a>
     <CardIcons />
   </div>
 </template>
