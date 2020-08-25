@@ -1,7 +1,9 @@
 <!--HTML Markup-->
 <template>
   <div class="banner_image">
-    <img src="../assets/Porsche_banner.jpg" alt="Porsche cars racing" />
+    <a href="https://motorsports.porsche.com/international/en" target="_blank">
+      <img src="../assets/Porsche_banner.jpg" alt="Porsche cars racing" />
+    </a>
   </div>
 </template>
 
@@ -19,7 +21,8 @@ img {
   margin-top: 10px;
   margin-left: 14%;
   width: 450px;
-  border-radius: 5%;
-  border: 1px solid dimgray;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top: 1px solid dimgray;
 }
 </style>
