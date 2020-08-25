@@ -21,7 +21,8 @@ img {
   margin-top: 10px;
   margin-left: 14%;
   width: 450px;
-  border-radius: 5%;
-  border: 1px solid dimgray;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top: 1px solid dimgray;
 }
 </style>
